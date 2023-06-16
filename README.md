@@ -16,7 +16,7 @@ Este é um aplicativo de exemplo que demonstra a implementação de uma tela de 
 
 Antes de executar o aplicativo, é necessário ter as seguintes dependências instaladas em sua máquina:
 
-* Flutter SDK: [Instalação do FLutter](https://docs.flutter.dev/get-started/install "Flutter")
+* Flutter SDK: [Instalação do Flutter](https://docs.flutter.dev/get-started/install "Flutter")
 
 * Firebase SDK:  [Configurando o Firebase para o Flutter](https://firebase.google.com/docs/flutter/setup?hl=pt-br&platform=ios "Firebase")
 
