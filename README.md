@@ -1,9 +1,8 @@
 # App de Tela de Login com Flutter e FirebaseAuth
 
 Este é um aplicativo de exemplo que demonstra a implementação de uma tela de login utilizando o framework Flutter e a biblioteca FirebaseAuth do Firebase. O app permite aos usuários fazerem login utilizando e-mail e senha, além de fornecer a opção de registro de novas contas.
-<img src="https://firebasestorage.googleapis.com/v0/b/client-management-7f16f.appspot.com/o/Screenshot_20230616_183124.png?alt=media&token=19ff24dc-7f9a-4756-8c4f-7ac6060c09b7" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
-<img src="https://firebasestorage.googleapis.com/v0/b/client-management-7f16f.appspot.com/o/Screenshot_20230616_183411.png?alt=media&token=42692d6b-9d22-461c-8b88-4cd9d9843ab7" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
-<img src="https://firebasestorage.googleapis.com/v0/b/client-management-7f16f.appspot.com/o/Screenshot_20230616_183145.png?alt=media&token=776aa43c-5556-45a0-8792-29bd6c96277c" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+
+<img src="https://firebasestorage.googleapis.com/v0/b/client-management-7f16f.appspot.com/o/Screenshot_20230616_183124.png?alt=media&token=19ff24dc-7f9a-4756-8c4f-7ac6060c09b7" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" /> <img src="https://firebasestorage.googleapis.com/v0/b/client-management-7f16f.appspot.com/o/Screenshot_20230616_183411.png?alt=media&token=42692d6b-9d22-461c-8b88-4cd9d9843ab7" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" /> <img src="https://firebasestorage.googleapis.com/v0/b/client-management-7f16f.appspot.com/o/Screenshot_20230616_183145.png?alt=media&token=776aa43c-5556-45a0-8792-29bd6c96277c" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 
 # Recursos do App
 
