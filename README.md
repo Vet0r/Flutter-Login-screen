@@ -12,7 +12,7 @@ Este é um aplicativo de exemplo que demonstra a implementação de uma tela de 
 * Integração com o serviço de autenticação do Firebase.
 * Armazenamento seguro de credenciais dos usuários.
 
-#Pré-requisitos
+# Pré-requisitos
 
 Antes de executar o aplicativo, é necessário ter as seguintes dependências instaladas em sua máquina:
 
